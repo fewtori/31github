@@ -1,7 +1,4 @@
 # 31github
-👋 Hi, I’m @fewtori
-👀 I’m interested in cars, programming and traveling
-🌱 I’m currently learning programming
-📫 How to reach me fewtori@gmail.com
-31 Day Challenge from GrowthHungry I want to learn new things about Programming. In 31 Days I believe, that I can achieve basic level in Java language. Also that is the best way to improve time menegment and self-discipline.
-For about two month I wanted to start learning, but day by day only thing that I did - procrastinated. Thank you GrowthHungry for this challenge.
+👋 Hello, I'm @fewtori! 👀 I have a keen interest in cars, programming, and exploring new places. 🌱 Currently, I am immersed in the world of programming and eagerly learning the ropes. 📫 You can reach me at fewtori@gmail.com.
+
+Embarking on the 31 Day Challenge presented by GrowthHungry, my goal is to delve into the realm of programming. Over the next 31 days, I aim to attain a basic proficiency in the Java language. This challenge not only provides an opportunity for learning but also serves as a means to enhance time management and self-discipline. For the past two months, the desire to start learning was present, but each day was marked by procrastination. Thanks to GrowthHungry for presenting this challenge and providing the push needed to take the first steps in this exciting journey!

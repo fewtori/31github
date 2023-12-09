@@ -1,0 +1,5 @@
+public class Plus {
+ public static void Plus {
+  System.out.println(7+1+4);
+}
+}
